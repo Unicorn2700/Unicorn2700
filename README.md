@@ -24,18 +24,17 @@ Machine Learning • Natural Language Processing • Data Analysis • AI Automa
 
 ## 🚀 Selected Projects
 
-### Financial Document Analyzer
-An AI-powered system that analyzes financial documents and extracts structured insights from unstructured financial text. The project uses LLM-based workflows to interpret financial information and convert it into structured data for automated analysis.
-
-Repository:  
-https://github.com/Unicorn2700/Financial-document-analyzer
-
-
 ### Review Rating Prediction
 A natural language processing project that predicts ratings from textual reviews using machine learning techniques. The system processes review text, extracts meaningful features, and predicts the corresponding rating.
 
 Repository:  
 https://github.com/Unicorn2700/Review-Rating-Prediction
+
+### Financial Document Analyzer
+An AI-powered system that analyzes financial documents and extracts structured insights from unstructured financial text. The project uses LLM-based workflows to interpret financial information and convert it into structured data for automated analysis.
+
+Repository:  
+https://github.com/Unicorn2700/Financial-document-analyzer
 
 
 ### SupportIQ — AI Escalation & Resolution Optimization Engine
