@@ -1,65 +1,64 @@
-# Hi, I'm Ritik Singh 👋
+# Hi, I'm Ritik Singh 👋  
 
-I’m an aspiring **AI/ML Engineer** interested in building intelligent systems and data-driven applications. My work focuses on applying machine learning to practical problems such as analyzing documents, extracting insights from data, and building tools that automate repetitive tasks.
+I’m an aspiring **Software Engineer** passionate about building scalable, efficient, and user-focused applications. I enjoy solving real-world problems through clean code, thoughtful system design, and practical implementations.
 
-I enjoy exploring how data, algorithms, and software systems come together to create useful products. Alongside project development, I actively work on strengthening my **problem-solving and algorithmic thinking through Data Structures and Algorithms.**
+My work focuses on developing backend systems, working with APIs, and creating tools that automate workflows and improve efficiency. Alongside development, I actively strengthen my **problem-solving and algorithmic thinking through Data Structures and Algorithms (DSA).**
 
 ---
 
-## 🛠 Skills & Technologies
+## 🛠 Skills & Technologies  
 
 **Languages**  
 Python • C++ • JavaScript • SQL  
 
-**Machine Learning & Data Science**  
-Pandas • NumPy • Scikit-learn • Matplotlib
+**Core Concepts**  
+Data Structures & Algorithms • OOP • System Design Basics • Problem Solving  
 
 **Tools & Technologies**  
 Git • GitHub • REST APIs • Jupyter Notebook • VS Code  
 
 **Areas of Interest**  
-Machine Learning • Natural Language Processing • Data Analysis • AI Automation • Backend Development • Data Structures & Algorithms
+Backend Development • Software Engineering • API Development • System Design • Automation Tools • DSA  
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Selected Projects  
 
-### Review Rating Prediction
-A natural language processing project that predicts ratings from textual reviews using machine learning techniques. The system processes review text, extracts meaningful features, and predicts the corresponding rating.
+### Code Arena  
+A problem-solving platform focused on practicing Data Structures and Algorithms. Designed to improve coding skills through structured challenges, efficient solutions, and competitive-style problem solving.
 
-Repository:  
-https://github.com/Unicorn2700/Review-Rating-Prediction
-
-### Financial Document Analyzer
-An AI-powered system that analyzes financial documents and extracts structured insights from unstructured financial text. The project uses LLM-based workflows to interpret financial information and convert it into structured data for automated analysis.
-
-Repository:  
-https://github.com/Unicorn2700/Financial-document-analyzer
-
-
-### SupportIQ — AI Escalation & Resolution Optimization Engine
-SupportIQ is an AI-powered system designed to improve customer support workflows by analyzing support tickets and recommending optimized escalation and resolution strategies. The system leverages AI-driven analysis to help prioritize issues, streamline support operations, and improve response efficiency.
-
-Repository:  
-https://github.com/Unicorn2700/SupportIQ---AI-Escalation-Resolution-Optimization-Engine
+🔗 Repository:  
+https://github.com/Unicorn2700/Code_Arena2004  
 
 ---
 
-## 🔭 Currently Exploring
+### Financial Document Analyzer  
+Developed a system to process and extract structured insights from unstructured financial documents. Designed workflows to handle large text data and convert it into usable formats for analysis.  
 
-- Building practical applications using **machine learning**
-- Creating **automation tools powered by AI**
-- Improving **problem-solving skills through DSA**
-
----
-
-## 💡 Fun Fact
-
-Many of my project ideas start from everyday inefficiencies I notice — if something feels repetitive or time-consuming, I usually end up wondering if it can be automated with code or machine learning.
+🔗 Repository:  
+https://github.com/Unicorn2700/Financial-document-analyzer  
 
 ---
 
-## 🤝 Connect
+### SupportIQ — AI Escalation & Resolution Optimization Engine  
+Engineered a system to analyze customer support tickets and recommend optimized handling strategies. Focused on improving workflow efficiency, prioritization logic, and backend processing.  
 
-LinkedIn  
-https://www.linkedin.com/in/ritik-singh-176a65261/
+🔗 Repository:  
+https://github.com/Unicorn2700/SupportIQ---AI-Escalation-Resolution-Optimization-Engine  
+
+---
+
+## 🔭 Currently Exploring  
+
+- Building scalable backend systems  
+- Improving problem-solving through DSA  
+- Learning system design and software architecture  
+- Creating automation tools to solve real-world problems  
+
+---
+
+## 💡 Fun Fact  
+
+Most of my projects start from spotting inefficiencies in everyday tasks — I enjoy turning repetitive problems into automated, efficient solutions through code.  
+
+---
